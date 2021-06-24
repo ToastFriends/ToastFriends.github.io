@@ -20,12 +20,12 @@
 
   "start_url": "/",
 
-  "background_color": "#50c940",
+  "background_color": "#d99d81",
 
   "display": "standalone",
 
   "scope": "",
 
-  "theme_color": "#50c940"
+  "theme_color": "#d99d81"
 
 }
