@@ -1,0 +1,16 @@
+{
+    "Version": "13.0.1",
+    "Name": "sxcu.net - join-toastfriends.is-ne.at",
+    "DestinationType": "ImageUploader",
+    "RequestMethod": "POST",
+    "RequestURL": "https://join-toastfriends.is-ne.at/api/files/create",
+    "Body": "MultipartFormData",
+    "FileFormName": "file",
+    "Arguments": {
+        "token": "5f3200f6-2dfe-4f6d-b0cc-836db516b97e"
+    },
+    "URL": "$json:url$",
+    "ThumbnailURL": "$json:thumb$",
+    "DeletionURL": "$json:del_url$",
+    "ErrorMessage": "$json:error$"
+}
