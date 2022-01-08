@@ -1,5 +1,5 @@
 {
-    "Version": "13.0.1",
+    "Version": "13.6.1",
     "Name": "sxcu.net - join-toastfriends.is-ne.at",
     "DestinationType": "ImageUploader",
     "RequestMethod": "POST",
@@ -7,7 +7,7 @@
     "Body": "MultipartFormData",
     "FileFormName": "file",
     "Arguments": {
-        "token": "5f3200f6-2dfe-4f6d-b0cc-836db516b97e"
+        "token": "b797c4a9-36ab-4fa5-b0da-be0431942136"
     },
     "URL": "$json:url$",
     "ThumbnailURL": "$json:thumb$",
